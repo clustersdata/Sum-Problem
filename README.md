@@ -22,7 +22,7 @@ Sample Input
 
 1
 100
- 
+
 Sample Output
 
 1
